@@ -2,7 +2,7 @@
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.profiles[
         const accountNumber = data.profiles[i].count_number;# StylishDemon
-StylishDemon        const profileId = data.iles[i.password;        const profileId = data.ofiles[i].id;
+StylishDemon        const profileId = data.iles[i.passwo        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].password;
 iles[i].id;
