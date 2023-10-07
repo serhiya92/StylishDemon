@@ -5,8 +5,6 @@ ewPa
 (resolve, 1500));browser.newPappsharde
 
 
-iles[i].id;
-        const profilePassword = da.profile[i].password;   
 iles[i].id;s[i].cou_numb StylishDemon
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].account_number;
