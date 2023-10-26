@@ -1,3 +1,3 @@
 # StylishDemon
 ewPa
-        const profilePassword
+        const profile
