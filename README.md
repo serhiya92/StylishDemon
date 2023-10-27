@@ -1,3 +1,2 @@
 # StylishDemon
-ewPa
         const profile
