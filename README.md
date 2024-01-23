@@ -1,5 +1,2 @@
 
 #l
-
-\[pjhlgjlg
-s const 
